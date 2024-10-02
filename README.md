@@ -96,7 +96,7 @@ BEGIN
 END;
 Screenshots
 1. Table Creation Output
-   
+   Screenshot 2024-10-02 231707.png
 
 3. Sample Data Insertion
 (Screenshot of successful data insertions)
