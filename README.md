@@ -2,7 +2,7 @@
 ## Project Overview
 The Hospital Management System is a database designed to manage hospital operations such as storing and retrieving data about patients, doctors, appointments, and treatments. This system ensures seamless management of patient records, doctor schedules, and treatment histories, improving the efficiency of hospital operations.
 
-Database Structure
+### Database Structure
 The system contains five core tables with relationships defined to allow for proper management of hospital data:
 
 Patient: Stores personal and contact information of patients.
@@ -10,7 +10,11 @@ Doctor: Contains details about hospital doctors, including specialties and conta
 Department: Manages hospital departments, such as Cardiology and Neurology.
 Appointment: Tracks appointments between patients and doctors.
 Treatment: Records details of the treatments provided to patients by doctors.
-Entity-Relationship Diagram (ERD)
+#### Entity-Relationship Diagram (ERD)
+The Entity-Relationship Diagram (ERD) provides a visual representation of the database structure and the relationships between entities such as Patient, Doctor, Department, Appointment, and Treatment. This diagram helps to clearly define how the tables are related (e.g., one-to-many or many-to-many relationships).
+
+ERD Screenshot
+
 
 Table Descriptions
 Patient:
