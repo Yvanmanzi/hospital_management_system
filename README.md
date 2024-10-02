@@ -96,6 +96,7 @@ BEGIN
 END;
 Screenshots
 1. Table Creation Output
+   <img width="767" alt="Screenshot 2024-10-02 231707" src="https://github.com/user-attachments/assets/9ee5fd76-3073-4f2d-9775-0d952086e129">
   
 
 3. Sample Data Insertion
