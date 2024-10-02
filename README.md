@@ -105,7 +105,11 @@ Screenshots
   
 
 3. Sample Data Insertion
-(Screenshot of successful data insertions)
+
+<img width="629" alt="insertion" src="https://github.com/user-attachments/assets/eecb67c1-0370-4b2f-b9b5-02217ee22ea0">
+
+this is the sample of data creation on table of patient
+
 
 4. Joins Execution
 (Screenshot of join queries and their results)
