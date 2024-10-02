@@ -15,6 +15,8 @@ The Entity-Relationship Diagram (ERD) provides a visual representation of the da
 
 ERD Screenshot
 
+<img width="762" alt="erd" src="https://github.com/user-attachments/assets/d81b4514-a566-4a13-aa55-752cb782758d">
+
 
 Table Descriptions
 Patient:
