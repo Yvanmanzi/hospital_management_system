@@ -112,7 +112,9 @@ this is the sample of data creation on table of patient
 
 
 4. Joins Execution
-(Screenshot of join queries and their results)
+<img width="767" alt="Screenshot 2024-10-02 231707" src="https://github.com/user-attachments/assets/01a585fa-31e9-406c-a0cf-0157fa0ebe07">
+
+this is the sample of joins Execution 
 
 
 Conclusion
