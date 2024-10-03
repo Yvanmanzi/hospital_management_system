@@ -18,23 +18,30 @@ ERD Screenshot
 <img width="762" alt="erd" src="https://github.com/user-attachments/assets/d81b4514-a566-4a13-aa55-752cb782758d">
 
 
-Table Descriptions
-Patient:
+##### Table Descriptions
+
+###### Patient:
 Contains information about patients, such as their name, date of birth, and contact details.
 
-Doctor:
+
+###### Doctor:
 Manages doctor records, linking them to their respective departments.
 
-Department:
+
+###### Department:
 Contains the department names and department IDs.
 
-Appointment:
+
+###### Appointment:
 Logs appointments between patients and doctors, tracking the date of the appointment.
 
-Treatment:
+
+###### Treatment:
 Keeps track of treatments given to patients, including the doctor responsible for each treatment and the treatment description.
 
+
 SQL Commands Executed
+
 1. Creating Tables
 To create the tables, we used SQL CREATE TABLE statements with foreign key constraints to link doctors with departments, and patients with appointments and treatments.
 
