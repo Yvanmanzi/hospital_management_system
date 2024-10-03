@@ -130,5 +130,5 @@ this is the sample of data creation on table of patient
 this is the sample of joins Execution 
 
 
-Conclusion
+Conclusion,
 This project demonstrates the use of SQL for managing a hospital database, including table creation, data manipulation, and retrieval through queries. The system showcases essential SQL operations like SELECT, JOIN, INSERT, UPDATE, DELETE, and transaction management using COMMIT.
